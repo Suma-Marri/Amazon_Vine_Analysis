@@ -20,7 +20,7 @@ This project analyzes the Amazon Vine program and determines if there is a bias 
 - What percentage of Vine reviews were 5 stars? What percentage of non-vine reviews were 5 stars?
   - The percentage of Vine reviewers with 5 stars is about **57.55%**. 
   - The percentage of non-Vine reviewers with 5 stars is about **37.45%**.
-  - Blow shows the results if they were paid.
+  - Below shows the results if they were paid.
 <img width="658" alt="image" src="https://user-images.githubusercontent.com/58046234/163722901-8ee0f0f1-31ff-40ff-8138-43d78e933abc.png">
 
 ## Summary
